@@ -1,3 +1,5 @@
+package ex09;
+
 import java.awt.EventQueue;
 import javax.swing.JFrame;
 
